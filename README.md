@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm  Raykhona</h1>
-<h3 align="center" style="color:#DCDCDC;">A passionate Frontend developer from Uzbekistan</h3>
+<h3 align="center" style="color:#DCDCDC;"> Frontend developer from Uzbekistan</h3>
 
 
 
